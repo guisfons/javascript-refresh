@@ -11,4 +11,5 @@
 // To import as a Object use the code below
 // import * as util from './util.js'
 // import * as objects from './objects.js'
-import * as classes from './classes.js'
+// import * as classes from './classes.js'
+import * as arrays from './arrays.js'
